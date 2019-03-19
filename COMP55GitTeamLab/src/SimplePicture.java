@@ -20,7 +20,8 @@ public class SimplePicture extends GraphicsProgram {
 		GImage robot = new GImage("robot.jpg", 200, 100);
 		add(robot);
 		GLabel label = new GLabel("MFW I change the label again!", 200, 400);
-	
+		//obj
+		
 		add(label);
 		System.out.println("Get nay nay'd");
 		//Ayyy lmao

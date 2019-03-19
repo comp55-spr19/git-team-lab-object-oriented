@@ -25,5 +25,7 @@ public class SimplePicture extends GraphicsProgram {
 		add(label);
 		System.out.println("Get nay nay'd");
 		//Ayyy lmao
+		
+		///////////////////////////////////
 	}
 }

@@ -19,7 +19,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robert = new GImage("robert.jpg", 200, 100);
 		add(robert);
-		GLabel label = new GLabel("MFW I change the label again!", 200, 400);
+		GLabel label = new GLabel("Why would you do this?", 200, 400);
 		//obj
 		
 		add(label);

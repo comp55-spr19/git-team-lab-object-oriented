@@ -1,11 +1,7 @@
 //comment one
 //Hayden's comment
 //Colton was here
-<<<<<<< HEAD
-=======
 //Ayyy lmao
-
->>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-object-oriented.git
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
@@ -22,10 +18,7 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
 		add(label);
-<<<<<<< HEAD
 		System.out.println("Get nay nay'd");
 		//Ayyy lmao
-=======
->>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-object-oriented.git
 	}
 }

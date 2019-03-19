@@ -26,13 +26,8 @@ public class SimplePicture extends GraphicsProgram {
 		add(label);
 		System.out.println("Get rekt");
 		//Ayyy lmao
-<<<<<<< HEAD
 		  O 
 		 -|-
    		  ^
-=======
-		
-		///////////////////////////////////
->>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-object-oriented.git
 	}
 }

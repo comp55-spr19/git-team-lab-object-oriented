@@ -20,13 +20,14 @@ public class SimplePicture extends GraphicsProgram {
 
 		GImage robot = new GImage("robot.jpg", 200, 100);
 		add(robot);
-		GLabel label = new GLabel("Github is ok", 200, 400);
+		GLabel label = new GLabel("Github is awsesome atually!", 200, 400);
 		//obj
 		
 		add(label);
 		System.out.println("Get rekt");
 		//Ayyy lmao
 		
+		System.out.println("1337");
 		///////////////////////////////////
 	}
 }

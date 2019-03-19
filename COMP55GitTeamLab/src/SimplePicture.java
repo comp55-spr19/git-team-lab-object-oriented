@@ -26,7 +26,8 @@ public class SimplePicture extends GraphicsProgram {
 		add(label);
 		System.out.println("Get rekt");
 		//Ayyy lmao
-		
-		///////////////////////////////////
+		  O 
+		 -|-
+   		  ^
 	}
 }

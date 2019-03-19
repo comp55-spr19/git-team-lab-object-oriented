@@ -23,7 +23,7 @@ public class SimplePicture extends GraphicsProgram {
 		//obj
 		
 		add(label);
-		System.out.println("Get nay nay'd");
+		System.out.println("Get rekt");
 		//Ayyy lmao
 		
 		///////////////////////////////////

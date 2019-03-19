@@ -11,7 +11,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void init() {
 		setSize(SIZE, SIZE);
 	}
-	
+	//E10
 	public void run() {
 		GImage robot = new GImage("robot.jpg", 200, 100);
 		add(robot);

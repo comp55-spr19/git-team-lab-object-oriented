@@ -2,6 +2,9 @@
 //Hayden's comment
 //Colton was here
 //Ayyy lmao
+//commit 1
+//commit 4
+//commit 3
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;

@@ -1,5 +1,6 @@
 //comment one
 //Colton was here
+//Ayyy lmao
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
@@ -16,6 +17,5 @@ public class SimplePicture extends GraphicsProgram {
 		add(robot);
 		GLabel label = new GLabel("How I feel when using github hackslash", 200, 400);
 		add(label);
-		//Ayyy lmao
 	}
 }

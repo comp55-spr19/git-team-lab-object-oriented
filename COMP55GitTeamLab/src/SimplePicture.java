@@ -19,7 +19,7 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage("robot.jpg", 200, 100);
 		add(robot);
-		GLabel label = new GLabel("Wassup", 200, 400);
+		GLabel label = new GLabel("Never gonna give you up", 200, 400);
 		add(label);
 		System.out.println("Get nay nay'd");
 		//Ayyy lmao

@@ -17,16 +17,21 @@ public class SimplePicture extends GraphicsProgram {
 	}
 	//E10
 	public void run() {
-		GImage robot = new GImage("robot.jpg", 200, 100);
-		add(robot);
-
-		GLabel label = new GLabel("glabel, consider yourself changed", 200, 400);
-
+		GImage robert = new GImage("robert.jpg", 200, 100);
+		add(robert);
+		GLabel label = new GLabel("MFW I change the label again!", 200, 400);
+		//obj
+		
 		add(label);
 		System.out.println("Get nay nay'd");
 		//Ayyy lmao
+<<<<<<< HEAD
 		  O 
 		 -|-
    		  ^
+=======
+		
+		///////////////////////////////////
+>>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-object-oriented.git
 	}
 }

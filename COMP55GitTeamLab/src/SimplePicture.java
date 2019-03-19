@@ -13,7 +13,7 @@ public class SimplePicture extends GraphicsProgram {
 	public static int SIZE = 700;
 	
 	public void init() {
-		setSize(SIZE, SIZE);
+		setSize(SIZE, SIZE); //les go
 	}
 	//E10
 	public void run() {

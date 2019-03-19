@@ -1,4 +1,5 @@
 //comment one
+//Hayden's comment
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;

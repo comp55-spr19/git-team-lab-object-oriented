@@ -19,7 +19,11 @@ public class SimplePicture extends GraphicsProgram {
 	public void run() {
 		GImage robot = new GImage("robot.jpg", 200, 100);
 		add(robot);
+<<<<<<< HEAD
 		GLabel label = new GLabel("Never gonna give you up", 200, 400);
+=======
+		GLabel label = new GLabel("I am changing this - Colton", 200, 400);
+>>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-object-oriented.git
 		add(label);
 		System.out.println("Get nay nay'd");
 		//Ayyy lmao

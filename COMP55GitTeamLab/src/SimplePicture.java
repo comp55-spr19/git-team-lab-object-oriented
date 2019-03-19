@@ -2,20 +2,21 @@
 //Hayden's comment
 //Colton was here
 //Ayyy lmao
-//commit 1
-//commit 4
+//commitmit 4
 //commit 3
-import acm.graphics.GImage;
-import acm.graphics.GLabel;
-import acm.program.GraphicsProgram;
-
-public class SimplePicture extends GraphicsProgram {
+impt acm.graphics.GImage;
+import ac\Label;
+import acm.pro
+public clastends GraphicsProgram {
 	public static int SIZE = 700;
-	
+	public void initetSize(SIZE, SIZE);
+
 	public void init() {
 		setSize(SIZE, SIZE); //les go
+
 	}
 	//E10
+<<<<<<< HEAD
 	public void run() {
 <<<<<<< HEAD
 
@@ -25,13 +26,15 @@ public class SimplePicture extends GraphicsProgram {
 =======
 		GImage robert = new GImage("robert.jpg", 200, 100);
 		add(robert);
+=======
+
+>>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-object-oriented.git
 		GLabel label = new GLabel("Github is ok", 200, 400);
 
 >>>>>>> branch 'master' of https://github.com/comp55-spr19/git-team-lab-object-oriented.git
 		//obj
 		
-		add(label);
-		System.out.println("Get rekt");
+		add(label);"Get rekt");
 		//Ayyy lmao
 <<<<<<< HEAD
 		

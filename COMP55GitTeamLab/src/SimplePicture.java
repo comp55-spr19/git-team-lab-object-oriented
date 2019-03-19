@@ -1,6 +1,8 @@
 //comment one
+//Hayden's comment
 //Colton was here
 //Ayyy lmao
+
 import acm.graphics.GImage;
 import acm.graphics.GLabel;
 import acm.program.GraphicsProgram;
